@@ -17,7 +17,7 @@ var friends = [
   },
   {
     name: "Angelina Jolie",
-    photo: "https://www.instagram.com/p/BUpHTIDhhVY/?utm_source=ig_embed&utm_campaign=embed_legacy",
+    photo: "https://c.tribune.com.pk/2017/04/1389986-angie-1492763306-905-640x480.gif",
     scores: [
       "5",
       "5",
@@ -123,22 +123,6 @@ var friends = [
       "1",
       "2",
       "3",
-      "4",
-      "5"
-    ]
-  },
-{
-    name: "Miss Piggy",
-    photo: "https://twitter.com/misspiggy",
-    scores: [
-      "4",
-      "4",
-      "2",
-      "3",
-      "2",
-      "2",
-      "3",
-      "2",
       "4",
       "5"
     ]
